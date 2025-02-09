@@ -13,3 +13,4 @@ llama-index
 python-dotenv
 numexpr
 langchain_community
+sentence_transformer
